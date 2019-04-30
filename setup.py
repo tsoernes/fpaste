@@ -4,6 +4,6 @@ from distutils.core import setup
 
 setup(
     name='fpaste',
-    version='1.0',
+    version='0.3.9.2',
     py_modules=['fpaste']
 )
